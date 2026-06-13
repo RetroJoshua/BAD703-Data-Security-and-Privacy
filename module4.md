@@ -1,3 +1,7 @@
+[🏠 Home](README.md) | [📅 Schedule](schedule.md) | [📖 M1](module1.md) | [📖 M2](module2.md) | [📖 M3](module3.md) | [📖 M4](module4.md) | [📖 M5](module5.md) | [📝 Assignments](assignments.md) | [📚 Resources](resources.md)
+
+---
+
 # Module 4: Web Security (TLS) and IP Security (IPsec)
 
 > **Recommended Reading:** Keith M. Martin, *Everyday Cryptography: Fundamental Principles and Applications* (2nd ed., Oxford University Press) — Chapter 12 (Cryptographic Applications).

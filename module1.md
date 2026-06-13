@@ -1,3 +1,7 @@
+[🏠 Home](README.md) | [📅 Schedule](schedule.md) | [📖 M1](module1.md) | [📖 M2](module2.md) | [📖 M3](module3.md) | [📖 M4](module4.md) | [📖 M5](module5.md) | [📝 Assignments](assignments.md) | [📚 Resources](resources.md)
+
+---
+
 # Module 1: Classical Encryption and Block Ciphers/DES
 
 **Course:** Cryptography and Network Security  

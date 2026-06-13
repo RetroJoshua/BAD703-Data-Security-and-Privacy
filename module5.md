@@ -1,3 +1,7 @@
+[🏠 Home](README.md) | [📅 Schedule](schedule.md) | [📖 M1](module1.md) | [📖 M2](module2.md) | [📖 M3](module3.md) | [📖 M4](module4.md) | [📖 M5](module5.md) | [📝 Assignments](assignments.md) | [📚 Resources](resources.md)
+
+---
+
 # Module 5: Data Hiding in Text and Images — Watermarking, LSB and BPCS Steganography
 
 > **Recommended Reading:** David Salomon, *Data Privacy and Security: Encryption and Information Hiding* (Springer) — Part on Information Hiding (Steganography and Watermarking).

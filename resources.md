@@ -1,3 +1,7 @@
+[🏠 Home](README.md) | [📅 Schedule](schedule.md) | [📖 M1](module1.md) | [📖 M2](module2.md) | [📖 M3](module3.md) | [📖 M4](module4.md) | [📖 M5](module5.md) | [📝 Assignments](assignments.md) | [📚 Resources](resources.md)
+
+---
+
 # 📚 Resources — Cryptography & Information Security Assignments
 
 A curated list of textbooks, papers, online courses, tools, and datasets to support **Assignment 1 (Symmetric + DES)** and **Assignment 2 (RSA / Diffie–Hellman + LSB Steganography)**.
