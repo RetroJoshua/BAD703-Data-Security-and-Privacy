@@ -72,7 +72,7 @@ Students will explore cryptographic primitives, access control models, privacy-e
 
 ## 📖 Recommended Textbooks
 
-1. *Cryptography and Network Security: Principles and Practice* – William Stallings
+1. *Cryptography and Network Security: Principles and Practice* – William Stallings 
 2. *Security in Computing* – Charles P. Pfleeger & Shari Lawrence Pfleeger
 3. *The Algorithmic Foundations of Differential Privacy* – Cynthia Dwork & Aaron Roth
 4. *Data Privacy: Principles and Practice* – Nataraj Venkataramanan & Ashwin Shriram
@@ -81,7 +81,8 @@ Students will explore cryptographic primitives, access control models, privacy-e
 
 ## 👨‍🏫 Instructor Information
 
-*Mr. Jhashuva U* aka *Joshua*
+*Mr. Jhashuva U* aka *Joshua*  
+
 *Email*:joshua537.nit@gmail.com
 
 ---
