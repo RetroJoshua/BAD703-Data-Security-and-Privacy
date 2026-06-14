@@ -12,7 +12,7 @@ A curated list of textbooks, papers, online courses, tools, and datasets to supp
 
 | # | Title | Authors | Edition | Link |
 |---|---|---|---|---|
-| 1 | **Cryptography and Network Security: Principles and Practice** | William Stallings | 8th | [Pearson](https://www.pearson.com/en-us/subject-catalog/p/cryptography-and-network-security-principles-and-practice/P200000003477) · [Author site](https://www.williamstallings.com/Cryptography/) |
+| 1 | **Cryptography and Network Security: Principles and Practice** | William Stallings | 8th | [Pearson](https://www.pearson.com/en-us/subject-catalog/p/cryptography-and-network-security-principles-and-practice/P200000003477) · [Author site](http://williamstallings.com/Cryptography/) |
 | 2 | **Understanding Cryptography** *(beginner-friendly, with companion videos)* | Christof Paar, Jan Pelzl | 2nd | [Springer](https://link.springer.com/book/10.1007/978-3-031-50816-7) · [Free lecture videos](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75pJbtjAjm9I8mEqyMt) |
 | 3 | **Introduction to Modern Cryptography** | Jonathan Katz, Yehuda Lindell | 3rd | [CRC Press](https://www.routledge.com/Introduction-to-Modern-Cryptography/Katz-Lindell/p/book/9780815354369) |
 | 4 | **Handbook of Applied Cryptography** *(free, classic reference)* | Menezes, van Oorschot, Vanstone | 1st | [Free PDF](https://cacr.uwaterloo.ca/hac/) |
