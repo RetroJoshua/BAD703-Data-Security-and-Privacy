@@ -81,7 +81,8 @@ Students will explore cryptographic primitives, access control models, privacy-e
 
 ## 👨‍🏫 Instructor Information
 
-*To be updated by the course instructor.*
+*Mr. Jhashuva U* aka *Joshua*
+*Email*:joshua537.nit@gmail.com
 
 ---
 
